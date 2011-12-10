@@ -1,0 +1,1 @@
+Simple Decision Tree Creator for Octave/Matlab. Can do nothing special yet. Just call with decision_tree(X,Y) where X is an integer-encoded feature matrix and Y an integer-encoded class-vector.
